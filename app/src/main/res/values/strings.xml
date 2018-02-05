@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">yuqi8-Subbook</string>
+    <string name="main_add">Add</string>
+    <string name="addItem_init_info">empty</string>
+    <string name="add_item_name">enter_name</string>
+    <string name="add_item_date">yyyy-MM-dd</string>
+    <string name="add_item_charge">0</string>
+    <string name="add_item_comment">enter_comment</string>
+    <string name="add_item_length">0</string>
+    <string name="empty"></string>
+</resources>
